@@ -1,0 +1,1 @@
+{:bbin/bin {hello {:main-opts ["-f" "hello.clj"]}}}
